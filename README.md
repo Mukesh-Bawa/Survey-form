@@ -8,9 +8,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&family=Signika+Negative:wght@300&display=swap" rel="stylesheet">
     <title>Survey Form</title>
-</head>
-  
-  :root{
+    <style> :root{
     --font-family: 'Poppins', sans-serif;
 
     --color-white: #f3f3f3;
@@ -151,8 +149,9 @@ textarea{
      padding: 0.80rem;
      font-size: var(--size-lable);
      border-radius: 0.8rem;
- }
-
+ }</style>
+</head>
+  
 <body>
     
    <div class="container">
